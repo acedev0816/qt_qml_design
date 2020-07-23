@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainButton.qml</file>
+        <file>image/main_left.png</file>
+        <file>image/main_ad.png</file>
+        <file>image/main_cc.png</file>
+        <file>image/main_cce.png</file>
+        <file>image/main_cs.png</file>
+        <file>image/main_fa.png</file>
+        <file>image/main_kc.png</file>
+        <file>image/main_lc.png</file>
+        <file>image/main_le.png</file>
+        <file>image/main_lg.png</file>
+        <file>image/main_rm.png</file>
+        <file>image/main_tm.png</file>
+        <file>image/main_vd.png</file>
+        <file>image/main_ks.png</file>
+        <file>OptionButton.qml</file>
+        <file>image/option_dc.png</file>
+        <file>image/option_dm.png</file>
+        <file>CloseButton.qml</file>
+        <file>diagnotics.qml</file>
+    </qresource>
+</RCC>
